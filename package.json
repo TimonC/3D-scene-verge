@@ -1,0 +1,22 @@
+{
+  "name": "3d-scene-verge",
+  "version": "1.0.0",
+  "description": "3D scene environment for Verge3D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TimonC/3D-scene-verge.git"
+  },
+  "keywords": [
+    "Verge3D"
+  ],
+  "author": "TimonC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimonC/3D-scene-verge/issues"
+  },
+  "homepage": "https://github.com/TimonC/3D-scene-verge#readme"
+}
