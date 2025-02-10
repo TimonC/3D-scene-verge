@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/TimonC/3D-scene-verge/issues"
   },
-  "homepage": "https://github.com/TimonC/3D-scene-verge#readme"
+  "homepage": "https://github.com/TimonC/3D-scene-verge#readme",
+  "dependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
 }
